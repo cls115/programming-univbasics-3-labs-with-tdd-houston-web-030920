@@ -1,3 +1,3 @@
 first_number = 1
 second_number = 2
-sum = 3
+sum = first_number + second_number
